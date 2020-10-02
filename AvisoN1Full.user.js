@@ -3,7 +3,7 @@
 // @version      9.2
 // @description  Notificação dos defeitos, opções layout
 // @author       Thauã Corrêa Martins, Eduardo Czamanski Rota
-// @source       https://github.com/correamth/dashaviso
+// @source       https://github.com/luisgustavofin/dashn1
 // @match        */controle-demanda/defectMonitoring*
 // @grant        GM_notification
 // @grant        window.focus
